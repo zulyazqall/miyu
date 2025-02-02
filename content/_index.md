@@ -10,15 +10,15 @@ design:
 sections:
   - block: hero
     content:
-      title: Write Docs Fast, Focus on Your Content
-      text: The easy, no-code technical documentation solution your users will love 🎉
+      title: Learning and Teaching Log
+      text: Write Docs Fast, Focus on Your Content 🎉
       primary_action:
         text: Get Started
-        url: https://hugoblox.com/templates/details/docs/
+        url: /blog/
         icon: rocket-launch
       secondary_action:
-        text: Read the docs
-        url: /docs/
+        text: Read more
+        url: /blog/
       announcement:
         text: "Announcing the release of version 2."
         link:
