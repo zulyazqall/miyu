@@ -14,16 +14,16 @@ sections:
       text: Write Docs Fast, Focus on Your Content 🎉
       primary_action:
         text: Get Started
-        url: /blog/
+        url: /miyu/blog/
         icon: rocket-launch
       secondary_action:
         text: Read more
-        url: /blog/
+        url: /miyu/blog/
       announcement:
         text: "Announcing the release of version 2."
         link:
           text: "Read more"
-          url: "/blog/"
+          url: "/miyu/blog/"
     design:
       spacing:
         padding: [0, 0, 0, 0]
