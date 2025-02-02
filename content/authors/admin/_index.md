@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: ズイ
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Zuli
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Ahmad Zuli
+last_name: Amrullah
 
 # Status emoji
 status:
@@ -17,15 +17,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Teacher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: A
+    url: https://www.a.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include robotics, mobile computing and programmable matter.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -34,7 +34,7 @@ profiles:
     url: 'mailto:your-email@example.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/linkedin
@@ -51,9 +51,7 @@ profiles:
 highlight_name: true
 
 # Author's website URL
-website: ""
+website: "https://zuli.netlify.app"
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ahmad Zuli Amrullah is a tech entusiast who teach Information Technology and programming in School. My research interests include robotics, mobile computing and programmable matter.
