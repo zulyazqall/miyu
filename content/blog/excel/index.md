@@ -26,10 +26,11 @@ A **spreadsheet** is a computer application for computation, organization, analy
 
 ## The Tools
 
+
 | Tools | Description |
 | ----------- | ----------- |
-| ![Excel](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png) | Microsoft Excel |
-| ![Sheet](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Google_Sheets_logo_%282014-2020%29.svg/1200px-Google_Sheets_logo_%282014-2020%29.svg.png) | Google Sheets | 
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="excel" style="width:200px;"/> | Microsoft Excel |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Google_Sheets_logo_%282014-2020%29.svg/1200px-Google_Sheets_logo_%282014-2020%29.svg.png" alt="sheet" style="width:200px;"/> | Google Sheets | 
 
 ## Interface
 ### Google Sheets
