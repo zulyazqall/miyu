@@ -24,6 +24,13 @@ A **Formula** is matematatical expresion used to calculate the value of the cell
 5. '=' equal
 
 
-## The Tools
+## Structure
+The structure of spreadsheet formula is ..
+```
+= [cell][operator][cell]
+= A2 + A3
+```
 
+==REMEMBER==
+formula ALWAYS start with `=`
 
