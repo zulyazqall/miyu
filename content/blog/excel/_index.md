@@ -41,6 +41,3 @@ A **spreadsheet** is a computer application for computation, organization, analy
 ![Microsoft Excel](https://www.trainingconnection.com/dist/images/excel/screen-excel-tooltip.webp)
 
 ## Contents
-1. [Formulas](https://zulyazqall.github.io/miyu/blog/excel/1)
-2. Numbers Format
-3. Charts and Graph
