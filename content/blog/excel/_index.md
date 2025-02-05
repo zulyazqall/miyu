@@ -2,6 +2,7 @@
 title: Spreadsheet
 summary: Spreadsheed Essentials
 date: 2025-02-03
+url: /blog/excel/
 authors:
   - admin
 tags:

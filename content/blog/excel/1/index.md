@@ -1,7 +1,6 @@
 ---
 title: Spreadsheet - Formulas
 summary: Spreadsheed Essentials
-url: /blog/excel/1
 date: 2025-02-03
 authors:
   - admin
