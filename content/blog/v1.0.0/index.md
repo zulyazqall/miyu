@@ -48,8 +48,8 @@ The HTML element is everything from the start tag to the end tag:
 
 | Start Tag | Element Content | End Tag |
 | ----------- | ----------- | ----------- |
-| <h1> | My First Heading | </h1> |
-| <p> | My first paragraph. | </p> |
-| <br> | none | none |
+| ```<h1> ``` | My First Heading | ```</h1>``` |
+| ```<p>``` | My first paragraph. | ```</p>``` |
+| ```<br>``` | none | none |s
 
 
