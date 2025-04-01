@@ -16,6 +16,8 @@ image:
 Microb:bit
 
 ## What it is
+![microbit](https://microbit.org/static/microbit-smile-leds-478a1ba3c16d65f2e4c0acfa3c0157b9.png)
+
 Here are some blocks: 
 
 ```blocks
