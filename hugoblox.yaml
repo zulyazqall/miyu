@@ -1,2 +1,4 @@
 build:
-  hugo_version: '0.136.5'
+  hugo_version: "0.136.5"
+libs: jquery
+extra_javascript: [embed.js]
