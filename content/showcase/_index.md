@@ -1,6 +1,6 @@
 ---
 title: Showcase
-description: "Docs websites powered by Hugo Blox."
+description: "Projects Showcase"
 type: landing
 
 
