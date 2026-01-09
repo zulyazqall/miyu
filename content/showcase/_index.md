@@ -18,10 +18,10 @@ sections:
         text: Explore More on miyukidemy.com
         url: https://learn.miyukidemy.com
     design:
-      no_padding: false
+      no_padding: true
       spacing:
-        padding: [1, 1, 1, 1]
-        margin: [1, 1, 1, 1]
+        padding: [0, 0, 0, 0]
+        margin: [0, 0, 0, 0]
   - block: collection
     content:
       filters:
