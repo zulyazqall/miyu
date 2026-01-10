@@ -15,13 +15,17 @@ Python is a programming language that lets you work quickly and integrate system
 
 ## Python Syntax
 
-Python syntax refers to the **set of rules and conventions** ad¥nd written as a sequence of statements. Each statement represents an action or a command. For example, assigning a value to a variable, calling a function, or defining a loop are all examples of statements.
+Python syntax refers to the **set of rules and conventions** and written as a sequence of statements. Each statement represents an action or a command. For example, assigning a value to a variable, calling a function, or defining a loop are all examples of statements.
 
 ## First Program
+
+Mandatory for beginners in any programming language to start with "Hello World!" program.
 
 ```python
 print("Hello World!")
 ```
+**Output**
+```Hello World!```
 
 
 
