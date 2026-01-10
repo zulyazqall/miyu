@@ -25,7 +25,9 @@ Mandatory for beginners in any programming language to start with "Hello World!"
 print("Hello World!")
 ```
 **Output**
-```Hello World!```
+```python
+Hello World!
+```
 
 
 
