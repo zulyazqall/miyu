@@ -60,11 +60,6 @@ print("4" + "5")
 ```
 
 
-{{% accordion title="Answer" %}}
-9
-45
-{{% /accordion %}}
-
 
 
 
