@@ -8,7 +8,7 @@ tags:
   - Learn
   - Python
 image:
-  caption: 'Image credit: [**Data Types**](https://www.miyukidemy.com/)'
+  caption: 'Image credit: [**Operator**](https://www.miyukidemy.com/)'
 ---
 
 Operators are unique symbols that are used to perform calculations on numbers and other information. They help us add numbers together, compare values, or change the variables' values.
