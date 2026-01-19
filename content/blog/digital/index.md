@@ -1,7 +1,7 @@
 ---
 title: Data and Memory
 summary: Digital Literacy about Data and Memory
-date: 2026-01-0319
+date: 2026-01-19
 authors:
   - admin
 tags:
