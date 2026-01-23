@@ -1,7 +1,7 @@
 ---
 title: Crypthography
 summary: Secret message with crypthography
-date: 2026-01-21
+date: 2026-01-23
 authors:
   - admin
 tags:
