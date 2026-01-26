@@ -61,19 +61,3 @@ Examples:
 
 ## Let’s Practice Computational Thinking!
 Interactive activity: "Solve this problem using decomposition, pattern recognition, abstraction, and algorithm design!"
-
-## Wrap-Up and Questions
-
-Recap: "Computational thinking helps us solve problems step by step!"
-
-Call to action: "Try using computational thinking in your daily life!"
-
-Q&A: "Any questions?"
-
-
-```bash
-hugo mod get -u github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind@main
-```
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vitae fringilla sem. Integer mattis dictum augue non auctor. Proin quis porttitor enim. Praesent vulputate arcu egestas scelerisque condimentum. Vivamus elit risus, suscipit et enim et, viverra molestie elit. Nulla ullamcorper nisl vel nisi pellentesque, id feugiat risus interdum. Duis consequat ipsum elit. Aenean hendrerit diam ipsum, a convallis magna congue et. Sed ex erat, pretium et ante id, malesuada luctus nibh. Nunc nec consectetur elit.
-
