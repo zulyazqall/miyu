@@ -1,7 +1,7 @@
 ---
-title: Arduino
-summary: Arduino Uno
-date: 2026-01-20
+title: Arduino Temperature Monitor
+summary: Temperature monitor with DHT11 and LCD 
+date: 2026-02-18
 authors:
   - admin
 tags:
@@ -16,6 +16,7 @@ image:
 It might be the simplest room temperature and humidity 
 
 [**Schema**](./dht.gif)
+<img src="./dht.gif" alt="Schema" style="width:200px;"/>
 
 ## Components and supplies
  
