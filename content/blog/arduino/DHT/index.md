@@ -20,11 +20,11 @@ It might be the simplest room temperature and humidity
 
 ## Components and supplies
  
-1 Arduino UNO
-1 I2C 16x2 Arduino LCD Display Module
-1 9V to Barrel Jack Connector
-1 DHT11 Temperature Sensor and Humidity
-7 Jumper wires (generic)
+- 1 Arduino UNO
+- 1 I2C 16x2 Arduino LCD Display Module
+- 1 9V to Barrel Jack Connector
+- 1 DHT11 Temperature Sensor and Humidity
+- Jumper wires (generic)
 
 ## Code
 
