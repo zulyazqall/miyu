@@ -67,12 +67,17 @@ Middle school represents a crucial transition period where students crave indepe
 | Grade 5 | Car Robot with microbit |
 | Grade 7 & 8 | Arduino Uno project like dashbin, games, sensor, etc |
 
+### Another Project
+- Robot Desk Buddy [Arduino](https://projecthub.arduino.cc/joshtello/robot-desk-buddy-a72a26)
+- Arduino Based Glasses for Blind People [Blind Glasses](https://www.instructables.com/Arduino-Based-Glasses-for-Blind-People/)
+- 
+
 
 ## Competition and Club
 We prepare for **Scratch Olympiad 2026** Competition for National Selection started at February (https://creativeprogramming.org/)
 
 for robotic club every saturday.
-
+ 
 ## References
 - ozobot.com
 - 
