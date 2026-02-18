@@ -16,7 +16,7 @@ image:
 It might be the simplest room temperature and humidity 
 
 [**Schema**](./dht.gif)
-<img src="./dht.gif" alt="Schema" style="width:200px;"/>
+<img src="./dht.gif" alt="Schema" style="width:600px;"/>
 
 ## Components and supplies
  
